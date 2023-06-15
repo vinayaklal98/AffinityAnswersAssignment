@@ -22,6 +22,13 @@ B. check_for_correct_address(address, pincode) method:
 
         Output - True if the pincode is found to be correct for the given address, False if it is incorrect
 
+#### Running the File
+
+###### Step 1: install the requests module
+        pip install requests
+
+###### Step 2 : run the file using python
+        python BestDeliveryCourier.py
 
 ## 2. Rfam Data
 
